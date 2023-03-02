@@ -29,7 +29,7 @@ const Main = () => {
 
   return (
     <div className="main-page">
-      <h1 className="main-heading">What is on the calendar today?</h1>
+      <h1 className="main-heading">What are the activities for today?</h1>
       <Box
         className="input-main"
         sx={{

@@ -8,7 +8,7 @@ const Home = () => {
 
   return (
     <div className="home-page">
-      <h2 className="home-heading">Welcome to my To Do list App!</h2>
+      <h2 className="home-heading">Welcome to my To-Do List App!</h2>
       <Button
         className="btn-home"
         style={{ color: "white" }}
